@@ -1,0 +1,14 @@
+body{margin:0;
+font-family: sans-serif;
+line-height: 20px;
+background-color: #C79DD7;}
+img{height:25em;}
+header{background-color: #673888;
+text-align: center;}
+main{background-color: #EF4F91}
+header h1{color:white;}
+h1, h2{font-size: 2em}
+a{color: #000000;
+text-decoration: none;}
+a:hover{background-color:#C79DD7;}
+footer a:hover{background-color: #673888;}
